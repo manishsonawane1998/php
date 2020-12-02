@@ -2,5 +2,5 @@
 Print "Hello everyone ";
 ?>
 <?php 
-Echo "version 1.1";
+Echo "version 1.2";
 ?>
