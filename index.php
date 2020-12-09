@@ -2,5 +2,5 @@
 Print "Hello everyone ";
 ?>
 <?php 
-Echo "version 1.3";
+Echo "This is Openshift v3.5";
 ?>
